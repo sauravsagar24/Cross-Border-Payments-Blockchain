@@ -13,3 +13,5 @@ previously discussed issues by lowering costs, increasing transparency, and decr
 time. In this project, we'll try to address cross-border payments by developing a Ethereum based
 smart contract with various functionalities and adding a foreign exchange component
 that will deal with the exchange rates between different countries.
+
+- The code for the Smart Contract is written in Solidity.
